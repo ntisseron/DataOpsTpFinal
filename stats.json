@@ -1,0 +1,2093 @@
+{
+  "overall": {
+    "count": 23603,
+    "min": 0.0,
+    "max": 684410.9,
+    "median": 66288.65,
+    "mean": 72896.13682031946,
+    "std": 56039.456680998504
+  },
+  "by_department": [
+    {
+      "department": "Boston Police Department",
+      "count": 3173,
+      "min": 105.9,
+      "max": 684410.9,
+      "median": 132711.47,
+      "mean": 131321.46231957138,
+      "std": 77925.45571370905
+    },
+    {
+      "department": "Boston Fire Department",
+      "count": 1688,
+      "min": 701.92,
+      "max": 260160.29,
+      "median": 127599.285,
+      "mean": 130292.7828021327,
+      "std": 34845.030814217746
+    },
+    {
+      "department": "School Support & Tranformation",
+      "count": 15,
+      "min": 67189.88,
+      "max": 168431.63,
+      "median": 111854.8,
+      "mean": 113345.90133333333,
+      "std": 36079.64244232629
+    },
+    {
+      "department": "Chief Operating Officer",
+      "count": 20,
+      "min": 7200.0,
+      "max": 169831.15,
+      "median": 121822.8,
+      "mean": 109660.818,
+      "std": 47555.73801427293
+    },
+    {
+      "department": "Strategy Department",
+      "count": 4,
+      "min": 60015.44,
+      "max": 182060.75,
+      "median": 98211.935,
+      "mean": 109625.015,
+      "std": 53462.20780898752
+    },
+    {
+      "department": "Chief Academic Officer",
+      "count": 5,
+      "min": 76566.37,
+      "max": 157527.8,
+      "median": 80435.05,
+      "mean": 105029.73199999999,
+      "std": 37639.880018811426
+    },
+    {
+      "department": "Early Learning Services",
+      "count": 23,
+      "min": 62747.96,
+      "max": 151045.41,
+      "median": 106535.38,
+      "mean": 104018.64217391305,
+      "std": 18576.066934979917
+    },
+    {
+      "department": "BPS Facility Mgmt/A & R",
+      "count": 46,
+      "min": 6268.56,
+      "max": 146795.45,
+      "median": 101174.17000000001,
+      "mean": 99615.7954347826,
+      "std": 28052.621367256586
+    },
+    {
+      "department": "ASD Intergvernmtl Relations",
+      "count": 9,
+      "min": 72083.34,
+      "max": 132254.77,
+      "median": 87819.88,
+      "mean": 95899.5111111111,
+      "std": 21645.312943053887
+    },
+    {
+      "department": "Chief of Staff",
+      "count": 6,
+      "min": 43292.47,
+      "max": 167379.71,
+      "median": 90694.73,
+      "mean": 94169.27,
+      "std": 46575.744162016774
+    },
+    {
+      "department": "BPS Alternative Education HS",
+      "count": 28,
+      "min": 15622.88,
+      "max": 133296.75,
+      "median": 101594.555,
+      "mean": 91735.385,
+      "std": 30998.30010741694
+    },
+    {
+      "department": "Public Facilities Department",
+      "count": 68,
+      "min": 1639.29,
+      "max": 144735.65,
+      "median": 97730.055,
+      "mean": 89670.15955882352,
+      "std": 35096.18215710146
+    },
+    {
+      "department": "BPS Boston Latin",
+      "count": 185,
+      "min": 7.3,
+      "max": 166833.05,
+      "median": 103734.82,
+      "mean": 89227.63005405405,
+      "std": 36291.30576179538
+    },
+    {
+      "department": "Superintendent",
+      "count": 11,
+      "min": 1518.0,
+      "max": 450583.2,
+      "median": 34214.44,
+      "mean": 89123.06090909091,
+      "std": 127513.10273902125
+    },
+    {
+      "department": "Info & Instr Technology",
+      "count": 57,
+      "min": 3973.54,
+      "max": 139356.81,
+      "median": 96701.02,
+      "mean": 89101.5305263158,
+      "std": 31287.216717898336
+    },
+    {
+      "department": "BPS Alternative Education",
+      "count": 19,
+      "min": 21614.19,
+      "max": 164007.7,
+      "median": 95950.88,
+      "mean": 88878.12473684212,
+      "std": 33140.775903314236
+    },
+    {
+      "department": "Office of Streets",
+      "count": 25,
+      "min": 1055.53,
+      "max": 152729.27,
+      "median": 89517.18,
+      "mean": 88739.7164,
+      "std": 33235.0149041183
+    },
+    {
+      "department": "BPS Counseling Service",
+      "count": 85,
+      "min": 16130.23,
+      "max": 131063.32,
+      "median": 102612.88,
+      "mean": 88536.0585882353,
+      "std": 35210.2678206215
+    },
+    {
+      "department": "BPS High School Renewal",
+      "count": 10,
+      "min": 12544.0,
+      "max": 161659.41,
+      "median": 106607.075,
+      "mean": 87059.59199999999,
+      "std": 62208.81962949623
+    },
+    {
+      "department": "BPS O'Bryant School",
+      "count": 128,
+      "min": 297.26,
+      "max": 164824.21,
+      "median": 101182.14,
+      "mean": 86149.657578125,
+      "std": 36950.37665376325
+    },
+    {
+      "department": "BPS Latin Academy",
+      "count": 141,
+      "min": 77.83,
+      "max": 144555.29,
+      "median": 102105.34,
+      "mean": 85647.0535460993,
+      "std": 38048.510062386085
+    },
+    {
+      "department": "Enrollment Services",
+      "count": 7,
+      "min": 513.01,
+      "max": 116448.04,
+      "median": 108932.68,
+      "mean": 84942.55857142857,
+      "std": 46263.96879415752
+    },
+    {
+      "department": "Treasury-Treasury Division",
+      "count": 29,
+      "min": 836.27,
+      "max": 168848.51,
+      "median": 77016.76,
+      "mean": 84908.50310344827,
+      "std": 41327.52433004461
+    },
+    {
+      "department": "BPS Boston International HS",
+      "count": 38,
+      "min": 1512.19,
+      "max": 142568.03,
+      "median": 94185.38500000001,
+      "mean": 84888.96421052632,
+      "std": 39669.25243013158
+    },
+    {
+      "department": "Kennedy, EM Health Academy",
+      "count": 60,
+      "min": 1385.17,
+      "max": 171507.97,
+      "median": 94484.685,
+      "mean": 84508.40616666667,
+      "std": 41421.515608991125
+    },
+    {
+      "department": "BPS Beethoven Elementary",
+      "count": 45,
+      "min": 9460.75,
+      "max": 136046.77,
+      "median": 103458.92,
+      "mean": 84476.52066666666,
+      "std": 40444.194209206195
+    },
+    {
+      "department": "Chief Financial Officer",
+      "count": 21,
+      "min": 2605.2,
+      "max": 160627.9,
+      "median": 82993.67,
+      "mean": 84139.59714285715,
+      "std": 42279.792773343885
+    },
+    {
+      "department": "WREC: Urban Science Academy",
+      "count": 52,
+      "min": 1142.14,
+      "max": 157936.22,
+      "median": 99294.565,
+      "mean": 83835.61942307692,
+      "std": 37622.622964461756
+    },
+    {
+      "department": "Diplomas Plus",
+      "count": 12,
+      "min": 12760.44,
+      "max": 130955.94,
+      "median": 78313.315,
+      "mean": 83756.61750000001,
+      "std": 35414.234875335635
+    },
+    {
+      "department": "Institutional Advancemt",
+      "count": 3,
+      "min": 63368.78,
+      "max": 104597.55,
+      "median": 82454.48,
+      "mean": 83473.60333333333,
+      "std": 20633.269934856016
+    },
+    {
+      "department": "ASD Office of Budget Mangmnt",
+      "count": 26,
+      "min": 1471.52,
+      "max": 149576.85,
+      "median": 81739.43,
+      "mean": 82307.89153846154,
+      "std": 39123.06159515747
+    },
+    {
+      "department": "Newcomers Academy",
+      "count": 36,
+      "min": 1897.6,
+      "max": 145941.13,
+      "median": 89594.68,
+      "mean": 81842.92277777779,
+      "std": 35964.059003846494
+    },
+    {
+      "department": "BPS Snowden International Hi",
+      "count": 57,
+      "min": 12.22,
+      "max": 133296.75,
+      "median": 101839.28,
+      "mean": 81610.13543859648,
+      "std": 38432.13042330096
+    },
+    {
+      "department": "BPS East Boston High",
+      "count": 168,
+      "min": 274.07,
+      "max": 160733.27,
+      "median": 94586.905,
+      "mean": 81319.52577380952,
+      "std": 39032.34450034908
+    },
+    {
+      "department": "Teaching & Learning",
+      "count": 41,
+      "min": 1398.98,
+      "max": 168839.72,
+      "median": 91058.16,
+      "mean": 80814.50902439025,
+      "std": 46717.80322634776
+    },
+    {
+      "department": "Neighborhood Development",
+      "count": 141,
+      "min": 458.29,
+      "max": 162432.75,
+      "median": 81603.99,
+      "mean": 80239.70063829787,
+      "std": 28874.52820151069
+    },
+    {
+      "department": "Tech Boston Academy",
+      "count": 139,
+      "min": 285.62,
+      "max": 162241.82,
+      "median": 87045.0,
+      "mean": 80051.58280575539,
+      "std": 36063.2340317069
+    },
+    {
+      "department": "Dpt of Innovation & Technology",
+      "count": 174,
+      "min": 129.17,
+      "max": 189514.56,
+      "median": 93902.4,
+      "mean": 79871.19959770115,
+      "std": 46743.796740990234
+    },
+    {
+      "department": "BPS Bates Elementary",
+      "count": 42,
+      "min": 246.13,
+      "max": 134940.61,
+      "median": 102883.36499999999,
+      "mean": 79244.5007142857,
+      "std": 42707.836658629836
+    },
+    {
+      "department": "BPS Ohrenberger Elementary",
+      "count": 87,
+      "min": 124.38,
+      "max": 134096.77,
+      "median": 104313.73,
+      "mean": 79117.91,
+      "std": 44835.95789545264
+    },
+    {
+      "department": "Haley Pilot",
+      "count": 67,
+      "min": 116.92,
+      "max": 138842.25,
+      "median": 94684.85,
+      "mean": 79062.88373134329,
+      "std": 36785.66702534734
+    },
+    {
+      "department": "English Language Learn",
+      "count": 47,
+      "min": 1452.19,
+      "max": 161718.91,
+      "median": 82428.4,
+      "mean": 78695.96042553191,
+      "std": 37666.17360999878
+    },
+    {
+      "department": "Greater Egleston High",
+      "count": 22,
+      "min": 22609.24,
+      "max": 123265.38,
+      "median": 86427.815,
+      "mean": 78261.21,
+      "std": 33704.20495414059
+    },
+    {
+      "department": "BPS Horace Mann",
+      "count": 95,
+      "min": 149.36,
+      "max": 135931.42,
+      "median": 89142.16,
+      "mean": 78244.82168421052,
+      "std": 41552.66033273515
+    },
+    {
+      "department": "BPS Community Academy",
+      "count": 21,
+      "min": 17601.28,
+      "max": 128472.54,
+      "median": 80052.96,
+      "mean": 78127.17238095237,
+      "std": 34800.614413531104
+    },
+    {
+      "department": "Perry K-8",
+      "count": 35,
+      "min": 500.0,
+      "max": 135346.85,
+      "median": 90117.27,
+      "mean": 77777.64628571429,
+      "std": 42317.82476519564
+    },
+    {
+      "department": "Immigrant Advancement",
+      "count": 5,
+      "min": 62915.1,
+      "max": 99334.77,
+      "median": 75067.05,
+      "mean": 77511.7,
+      "std": 13309.408446131254
+    },
+    {
+      "department": "Roosevelt K-8",
+      "count": 72,
+      "min": 68.94,
+      "max": 142450.27,
+      "median": 103136.055,
+      "mean": 76464.70319444445,
+      "std": 46071.23471098333
+    },
+    {
+      "department": "BPS Another Course To Colleg",
+      "count": 34,
+      "min": 1577.01,
+      "max": 153613.2,
+      "median": 69105.475,
+      "mean": 76384.49117647059,
+      "std": 42625.705573877196
+    },
+    {
+      "department": "HPEC: Com Acd Science & Health",
+      "count": 66,
+      "min": 9.79,
+      "max": 128472.54,
+      "median": 95302.09,
+      "mean": 75767.16106060606,
+      "std": 39344.77923164288
+    },
+    {
+      "department": "ASD Purchasing Division",
+      "count": 23,
+      "min": 14915.71,
+      "max": 117678.42,
+      "median": 80414.51,
+      "mean": 75125.60826086956,
+      "std": 28696.26861342804
+    },
+    {
+      "department": "BPS Edwards Middle",
+      "count": 62,
+      "min": 139.87,
+      "max": 130477.18,
+      "median": 88310.66500000001,
+      "mean": 74934.71516129033,
+      "std": 44305.08496815671
+    },
+    {
+      "department": "City Clerk",
+      "count": 15,
+      "min": 332.35,
+      "max": 129920.03,
+      "median": 66060.17,
+      "mean": 74658.166,
+      "std": 33260.23291829508
+    },
+    {
+      "department": "BPS McCormack Middle",
+      "count": 63,
+      "min": 12.85,
+      "max": 126868.21,
+      "median": 90422.03,
+      "mean": 74167.2088888889,
+      "std": 43247.84261164094
+    },
+    {
+      "department": "BPS Human Resource Team",
+      "count": 200,
+      "min": 10.85,
+      "max": 162340.36,
+      "median": 87916.91500000001,
+      "mean": 73813.7025,
+      "std": 42847.439411080784
+    },
+    {
+      "department": "Office of Admin & Finance",
+      "count": 7,
+      "min": 4935.0,
+      "max": 118460.56,
+      "median": 85197.72,
+      "mean": 73126.46428571429,
+      "std": 40928.72914601016
+    },
+    {
+      "department": "Inspectional Services Dept",
+      "count": 240,
+      "min": 420.45,
+      "max": 250672.23,
+      "median": 73438.66500000001,
+      "mean": 72636.53166666668,
+      "std": 40904.560096176385
+    },
+    {
+      "department": "BPS Murphy Elementary",
+      "count": 142,
+      "min": 38.97,
+      "max": 158108.29,
+      "median": 93767.985,
+      "mean": 72474.19591549296,
+      "std": 44449.20008227136
+    },
+    {
+      "department": "West Roxbury Academy",
+      "count": 73,
+      "min": 620.25,
+      "max": 141278.25,
+      "median": 76042.03,
+      "mean": 72199.47657534247,
+      "std": 40664.384997362424
+    },
+    {
+      "department": "BPS New Mission Pilot",
+      "count": 58,
+      "min": 1019.82,
+      "max": 151781.72,
+      "median": 80734.1,
+      "mean": 71739.45534482758,
+      "std": 39731.89151157151
+    },
+    {
+      "department": "BPS Roland Hayes Div of Music",
+      "count": 14,
+      "min": 9721.52,
+      "max": 119059.36,
+      "median": 81932.26999999999,
+      "mean": 71644.32928571428,
+      "std": 38677.726513631445
+    },
+    {
+      "department": "Research Assess & Eval",
+      "count": 27,
+      "min": 5328.97,
+      "max": 126124.81,
+      "median": 84856.0,
+      "mean": 71630.94407407407,
+      "std": 40828.61090183209
+    },
+    {
+      "department": "BPS English High",
+      "count": 107,
+      "min": 156.99,
+      "max": 159512.33,
+      "median": 80036.17,
+      "mean": 71293.43158878504,
+      "std": 40721.10166635684
+    },
+    {
+      "department": "BPS Mather Elementary",
+      "count": 91,
+      "min": 147.6,
+      "max": 129561.81,
+      "median": 77586.04,
+      "mean": 71126.62142857142,
+      "std": 42767.8456241309
+    },
+    {
+      "department": "Lyndon K-8",
+      "count": 73,
+      "min": 159.04,
+      "max": 133168.6,
+      "median": 78315.78,
+      "mean": 70849.17424657533,
+      "std": 38262.33554571128
+    },
+    {
+      "department": "BPS Irving Middle",
+      "count": 62,
+      "min": 1066.11,
+      "max": 131691.18,
+      "median": 78797.125,
+      "mean": 70581.93709677419,
+      "std": 39017.499492191055
+    },
+    {
+      "department": "BPS Dearborn Middle",
+      "count": 75,
+      "min": 72.04,
+      "max": 145747.54,
+      "median": 81255.5,
+      "mean": 70532.1888,
+      "std": 39452.15283679658
+    },
+    {
+      "department": "Auditing Department",
+      "count": 37,
+      "min": 410.83,
+      "max": 149222.88,
+      "median": 67934.28,
+      "mean": 70461.1918918919,
+      "std": 34345.60803581715
+    },
+    {
+      "department": "BPS Timilty Middle",
+      "count": 50,
+      "min": 12.21,
+      "max": 136581.4,
+      "median": 75450.09,
+      "mean": 70380.46639999999,
+      "std": 43858.9917126519
+    },
+    {
+      "department": "Assessing Department",
+      "count": 92,
+      "min": 51.26,
+      "max": 141191.97,
+      "median": 72024.765,
+      "mean": 70298.43891304347,
+      "std": 32527.25932234203
+    },
+    {
+      "department": "Unified Student Svc",
+      "count": 36,
+      "min": 1926.02,
+      "max": 147684.1,
+      "median": 79686.13,
+      "mean": 69855.18055555556,
+      "std": 46472.63684517091
+    },
+    {
+      "department": "Mildred Avenue K-8",
+      "count": 93,
+      "min": 284.73,
+      "max": 138346.85,
+      "median": 76595.69,
+      "mean": 69704.0759139785,
+      "std": 40929.22430448124
+    },
+    {
+      "department": "Margarita Muniz Academy",
+      "count": 48,
+      "min": 65.16,
+      "max": 139492.25,
+      "median": 75700.655,
+      "mean": 69349.52166666667,
+      "std": 35713.53654533347
+    },
+    {
+      "department": "BPS Winship Elementary",
+      "count": 39,
+      "min": 547.6,
+      "max": 133386.75,
+      "median": 83023.26,
+      "mean": 69337.36923076923,
+      "std": 46178.62912235026
+    },
+    {
+      "department": "BPS Mckay Elementary",
+      "count": 105,
+      "min": 67.17,
+      "max": 148606.44,
+      "median": 78679.85,
+      "mean": 69299.67514285714,
+      "std": 40705.77730477642
+    },
+    {
+      "department": "BPS Sumner Elementary",
+      "count": 93,
+      "min": 519.57,
+      "max": 126080.25,
+      "median": 69745.0,
+      "mean": 69215.71806451613,
+      "std": 44803.3223867619
+    },
+    {
+      "department": "Quincy Upper School",
+      "count": 75,
+      "min": 14.12,
+      "max": 135168.96,
+      "median": 73918.26,
+      "mean": 68922.65626666666,
+      "std": 38061.09182104187
+    },
+    {
+      "department": "BTU Pilot",
+      "count": 45,
+      "min": 868.45,
+      "max": 129068.13,
+      "median": 82687.93,
+      "mean": 68722.99422222222,
+      "std": 44603.63255709972
+    },
+    {
+      "department": "BPS Manning Elementary",
+      "count": 36,
+      "min": 444.64,
+      "max": 136046.83,
+      "median": 71932.97,
+      "mean": 68618.2161111111,
+      "std": 39092.66188034704
+    },
+    {
+      "department": "Jackson/Mann K-8",
+      "count": 129,
+      "min": 3.11,
+      "max": 245468.7,
+      "median": 62502.54,
+      "mean": 68586.61100775194,
+      "std": 45437.000178787086
+    },
+    {
+      "department": "Mayor's Office",
+      "count": 65,
+      "min": 2474.96,
+      "max": 191615.46,
+      "median": 58811.47,
+      "mean": 68508.86323076923,
+      "std": 43333.26926156129
+    },
+    {
+      "department": "BPS Winthrop Elementary",
+      "count": 45,
+      "min": 565.1,
+      "max": 136046.77,
+      "median": 81477.15,
+      "mean": 68233.17422222222,
+      "std": 43271.64356003849
+    },
+    {
+      "department": "Warren/Prescott K-8",
+      "count": 93,
+      "min": 638.69,
+      "max": 142534.11,
+      "median": 82137.46,
+      "mean": 68153.90537634409,
+      "std": 46462.57031289709
+    },
+    {
+      "department": "BPS McKinley Middle",
+      "count": 210,
+      "min": 89.39,
+      "max": 142508.08,
+      "median": 54153.75,
+      "mean": 67993.96947619047,
+      "std": 41836.15207195424
+    },
+    {
+      "department": "ASD Office Of Labor Relation",
+      "count": 10,
+      "min": 25636.4,
+      "max": 125445.47,
+      "median": 64744.875,
+      "mean": 67976.15400000001,
+      "std": 34013.61601478188
+    },
+    {
+      "department": "BPS Boston Evening Academy",
+      "count": 59,
+      "min": 2550.66,
+      "max": 133296.75,
+      "median": 72233.25,
+      "mean": 67884.69372881357,
+      "std": 36213.77083880365
+    },
+    {
+      "department": "BPS Grew Elementary",
+      "count": 38,
+      "min": 363.0,
+      "max": 135198.8,
+      "median": 77602.765,
+      "mean": 67864.3744736842,
+      "std": 46585.855114812024
+    },
+    {
+      "department": "Finance Commission",
+      "count": 4,
+      "min": 5000.06,
+      "max": 132929.23,
+      "median": 66697.145,
+      "mean": 67830.895,
+      "std": 54685.77613698983
+    },
+    {
+      "department": "BPS O'Donnell Elementary",
+      "count": 39,
+      "min": 4418.38,
+      "max": 124020.4,
+      "median": 87993.04,
+      "mean": 67823.27307692307,
+      "std": 43816.34765296217
+    },
+    {
+      "department": "BPS Taylor Elementary",
+      "count": 82,
+      "min": 93.7,
+      "max": 136436.26,
+      "median": 67317.555,
+      "mean": 67811.74426829269,
+      "std": 41728.24668763713
+    },
+    {
+      "department": "Innovation Department",
+      "count": 2,
+      "min": 33542.6,
+      "max": 101941.1,
+      "median": 67741.85,
+      "mean": 67741.85,
+      "std": 48365.04317298807
+    },
+    {
+      "department": "Communications",
+      "count": 6,
+      "min": 4653.16,
+      "max": 156929.27,
+      "median": 71380.22,
+      "mean": 67632.29833333332,
+      "std": 58385.92096858776
+    },
+    {
+      "department": "Property Management",
+      "count": 164,
+      "min": 202.47,
+      "max": 163337.9,
+      "median": 71583.4,
+      "mean": 67564.99798780488,
+      "std": 35827.694798668024
+    },
+    {
+      "department": "Henderson Elementary",
+      "count": 163,
+      "min": 414.51,
+      "max": 154463.12,
+      "median": 72881.72,
+      "mean": 67486.60417177914,
+      "std": 38651.60779335078
+    },
+    {
+      "department": "BPS Russell Elementary",
+      "count": 62,
+      "min": 5.8,
+      "max": 143424.97,
+      "median": 72441.435,
+      "mean": 67429.05532258065,
+      "std": 42927.05858862769
+    },
+    {
+      "department": "BPS Mason Elementary",
+      "count": 47,
+      "min": 163.74,
+      "max": 135846.83,
+      "median": 68255.59,
+      "mean": 67375.31,
+      "std": 36960.75898819337
+    },
+    {
+      "department": "BPS Madison Park High",
+      "count": 232,
+      "min": 12.0,
+      "max": 160763.18,
+      "median": 74638.82,
+      "mean": 67357.37284482758,
+      "std": 43091.85514671955
+    },
+    {
+      "department": "BPS Conley Elementary",
+      "count": 45,
+      "min": 39.24,
+      "max": 134546.83,
+      "median": 58075.33,
+      "mean": 67334.52,
+      "std": 43192.46803703327
+    },
+    {
+      "department": "BPS Carter Center",
+      "count": 24,
+      "min": 11334.8,
+      "max": 133296.75,
+      "median": 49553.69500000001,
+      "mean": 67239.72375,
+      "std": 40477.886412151325
+    },
+    {
+      "department": "BPS Boston Comm Leadership Ac",
+      "count": 83,
+      "min": 213.99,
+      "max": 156039.21,
+      "median": 69152.88,
+      "mean": 67188.94578313253,
+      "std": 40550.367757335196
+    },
+    {
+      "department": "BPS Trotter Elementary",
+      "count": 74,
+      "min": 59.12,
+      "max": 124459.04,
+      "median": 79266.19,
+      "mean": 67056.78662162162,
+      "std": 43132.25167565228
+    },
+    {
+      "department": "BPS Condon Elementary",
+      "count": 151,
+      "min": 68.76,
+      "max": 156608.29,
+      "median": 65592.61,
+      "mean": 67036.94066225165,
+      "std": 44124.52393306338
+    },
+    {
+      "department": "BPS Quincy Elementary",
+      "count": 138,
+      "min": 6.55,
+      "max": 150379.57,
+      "median": 63315.445,
+      "mean": 66534.38405797101,
+      "std": 41987.62356151475
+    },
+    {
+      "department": "Green Academy",
+      "count": 82,
+      "min": 507.61,
+      "max": 137468.98,
+      "median": 73368.245,
+      "mean": 66471.66975609756,
+      "std": 35145.26975194755
+    },
+    {
+      "department": "Law Department",
+      "count": 70,
+      "min": 133.39,
+      "max": 164798.0,
+      "median": 69899.86499999999,
+      "mean": 66333.18671428572,
+      "std": 37969.956012401795
+    },
+    {
+      "department": "Umana Middle",
+      "count": 140,
+      "min": 129.88,
+      "max": 155358.21,
+      "median": 66858.58,
+      "mean": 66094.20271428573,
+      "std": 39253.51768346983
+    },
+    {
+      "department": "Gardner Pilot  Academy",
+      "count": 68,
+      "min": 738.26,
+      "max": 137742.71,
+      "median": 69466.505,
+      "mean": 65927.05338235294,
+      "std": 40369.60049314083
+    },
+    {
+      "department": "Curley K-8",
+      "count": 182,
+      "min": 95.2,
+      "max": 158908.31,
+      "median": 66746.805,
+      "mean": 65725.22005494506,
+      "std": 42826.067044606585
+    },
+    {
+      "department": "BPS Ellis Elementary",
+      "count": 75,
+      "min": 519.69,
+      "max": 129805.8,
+      "median": 64199.36,
+      "mean": 65533.686133333336,
+      "std": 43879.57284722578
+    },
+    {
+      "department": "Office of Economic Development",
+      "count": 55,
+      "min": 711.65,
+      "max": 157367.36,
+      "median": 69170.57,
+      "mean": 65469.13545454546,
+      "std": 32063.81708965678
+    },
+    {
+      "department": "Advancement & Ext. Affairs",
+      "count": 10,
+      "min": 487.5,
+      "max": 183670.53,
+      "median": 59825.490000000005,
+      "mean": 65389.505000000005,
+      "std": 51368.32602894798
+    },
+    {
+      "department": "Tobin K-8",
+      "count": 65,
+      "min": 46.44,
+      "max": 227852.73,
+      "median": 68074.84,
+      "mean": 65123.43,
+      "std": 47039.26652723502
+    },
+    {
+      "department": "Boston Collaborative High Sch",
+      "count": 21,
+      "min": 1276.42,
+      "max": 131348.3,
+      "median": 74992.35,
+      "mean": 65114.032380952376,
+      "std": 44259.13665122613
+    },
+    {
+      "department": "BPS Adams Elementary",
+      "count": 56,
+      "min": 40.39,
+      "max": 125886.29,
+      "median": 56378.765,
+      "mean": 64924.17589285714,
+      "std": 44624.013475593274
+    },
+    {
+      "department": "BPS Perkins Elementary",
+      "count": 33,
+      "min": 4.62,
+      "max": 134546.83,
+      "median": 60478.95,
+      "mean": 64897.90393939394,
+      "std": 47146.84355102483
+    },
+    {
+      "department": "BPS Hennigan Elementary",
+      "count": 107,
+      "min": 21.73,
+      "max": 143587.42,
+      "median": 54970.35,
+      "mean": 64843.4629906542,
+      "std": 44805.181358718786
+    },
+    {
+      "department": "BPS Chittick Elementary",
+      "count": 64,
+      "min": 279.28,
+      "max": 142876.25,
+      "median": 54730.055,
+      "mean": 64796.96796875,
+      "std": 43713.67282086479
+    },
+    {
+      "department": "Consumer Affairs & Licensing",
+      "count": 18,
+      "min": 29700.0,
+      "max": 99038.41,
+      "median": 59535.524999999994,
+      "mean": 64730.162777777776,
+      "std": 22170.25092674516
+    },
+    {
+      "department": "Lyon K-8",
+      "count": 48,
+      "min": 501.54,
+      "max": 129591.84,
+      "median": 56097.82,
+      "mean": 64715.20916666667,
+      "std": 42137.47288479434
+    },
+    {
+      "department": "BPS Counseling & Intervtn Ct",
+      "count": 13,
+      "min": 680.0,
+      "max": 133088.63,
+      "median": 62204.26,
+      "mean": 64502.1876923077,
+      "std": 46792.24530085873
+    },
+    {
+      "department": "BPS South Boston HS - Excel",
+      "count": 84,
+      "min": 254.99,
+      "max": 143853.23,
+      "median": 67862.16500000001,
+      "mean": 64341.11666666666,
+      "std": 40698.48502269861
+    },
+    {
+      "department": "BPS Hale Elementary",
+      "count": 27,
+      "min": 474.56,
+      "max": 128472.54,
+      "median": 79042.84,
+      "mean": 64243.10592592593,
+      "std": 45351.396611316195
+    },
+    {
+      "department": "BPS Boston Arts Academy",
+      "count": 92,
+      "min": 627.14,
+      "max": 137047.89,
+      "median": 67533.89,
+      "mean": 64219.94076086956,
+      "std": 40247.93344899376
+    },
+    {
+      "department": "BPS Fenway High",
+      "count": 61,
+      "min": 62.75,
+      "max": 133900.0,
+      "median": 64454.86,
+      "mean": 64175.61868852459,
+      "std": 39082.0843948961
+    },
+    {
+      "department": "Boston Retirement System",
+      "count": 64,
+      "min": 525.0,
+      "max": 167760.99,
+      "median": 73047.1,
+      "mean": 63778.7365625,
+      "std": 41557.57832536872
+    },
+    {
+      "department": "Kennedy, PJ Elementary",
+      "count": 53,
+      "min": 180.34,
+      "max": 128472.54,
+      "median": 56474.35,
+      "mean": 63422.24773584906,
+      "std": 42510.60605000175
+    },
+    {
+      "department": "Fam & Student Engagemt",
+      "count": 26,
+      "min": 9865.0,
+      "max": 164208.76,
+      "median": 66283.09,
+      "mean": 63367.89692307693,
+      "std": 39628.02437454976
+    },
+    {
+      "department": "BPS Kenny Elementary",
+      "count": 58,
+      "min": 114.89,
+      "max": 133296.75,
+      "median": 55319.505,
+      "mean": 63294.55655172414,
+      "std": 42136.42215145652
+    },
+    {
+      "department": "BPS Brighton High",
+      "count": 124,
+      "min": 53.32,
+      "max": 149244.16,
+      "median": 63198.020000000004,
+      "mean": 63266.4275,
+      "std": 39589.016703870606
+    },
+    {
+      "department": "Public Works Department",
+      "count": 430,
+      "min": 16.0,
+      "max": 216647.22,
+      "median": 59051.915,
+      "mean": 62948.09369767442,
+      "std": 37097.62376876482
+    },
+    {
+      "department": "Kennedy, JF Elementary",
+      "count": 59,
+      "min": 409.58,
+      "max": 130472.54,
+      "median": 66823.82,
+      "mean": 62896.76847457627,
+      "std": 41515.18749289742
+    },
+    {
+      "department": "Kilmer K-8",
+      "count": 86,
+      "min": 124.38,
+      "max": 129776.36,
+      "median": 51851.92,
+      "mean": 62810.28197674418,
+      "std": 42113.036862024564
+    },
+    {
+      "department": "Edison K-8",
+      "count": 133,
+      "min": 13.27,
+      "max": 133296.75,
+      "median": 53614.71,
+      "mean": 62798.43563909775,
+      "std": 43609.65993165611
+    },
+    {
+      "department": "BPS Harvard/Kent Elementary",
+      "count": 98,
+      "min": 0.0,
+      "max": 141421.51,
+      "median": 59983.905,
+      "mean": 62791.049489795914,
+      "std": 43790.79323442933
+    },
+    {
+      "department": "BPS Lee Elementary",
+      "count": 157,
+      "min": 36.94,
+      "max": 150581.82,
+      "median": 49890.46,
+      "mean": 62111.02662420382,
+      "std": 41702.451469639964
+    },
+    {
+      "department": "BPS Bradley Elementary",
+      "count": 52,
+      "min": 94.87,
+      "max": 128472.54,
+      "median": 53837.575,
+      "mean": 62062.42519230769,
+      "std": 46002.68294768092
+    },
+    {
+      "department": "BPS Mozart Elementary",
+      "count": 40,
+      "min": 338.94,
+      "max": 123759.69,
+      "median": 62582.17999999999,
+      "mean": 61999.53375,
+      "std": 40000.52723987559
+    },
+    {
+      "department": "Eliot K-8",
+      "count": 99,
+      "min": 117.52,
+      "max": 151781.72,
+      "median": 63224.74,
+      "mean": 61901.10060606061,
+      "std": 42394.92497272085
+    },
+    {
+      "department": "BPS Burke High",
+      "count": 72,
+      "min": 7.08,
+      "max": 173647.72,
+      "median": 63204.7,
+      "mean": 61889.74291666667,
+      "std": 43863.33994569523
+    },
+    {
+      "department": "Hurley K-8",
+      "count": 61,
+      "min": 72.59,
+      "max": 150681.92,
+      "median": 53926.26,
+      "mean": 61723.08147540984,
+      "std": 47128.07958883048
+    },
+    {
+      "department": "Lyon Pilot High 9-12",
+      "count": 47,
+      "min": 893.17,
+      "max": 139446.53,
+      "median": 55326.67,
+      "mean": 61668.60872340425,
+      "std": 39114.0380819846
+    },
+    {
+      "department": "BPS Otis Elementary",
+      "count": 65,
+      "min": 124.38,
+      "max": 141342.47,
+      "median": 56858.76,
+      "mean": 61587.44692307692,
+      "std": 43214.61185873444
+    },
+    {
+      "department": "Dudley St. Neighborhood School",
+      "count": 47,
+      "min": 418.46,
+      "max": 133219.21,
+      "median": 67299.07,
+      "mean": 61492.15255319149,
+      "std": 37754.768215781216
+    },
+    {
+      "department": "Frederick Pilot Middle",
+      "count": 104,
+      "min": 16.83,
+      "max": 134796.75,
+      "median": 65800.895,
+      "mean": 61433.530576923076,
+      "std": 39861.176999728035
+    },
+    {
+      "department": "BPS Health and Wellness",
+      "count": 16,
+      "min": 8520.02,
+      "max": 114569.98,
+      "median": 56138.37,
+      "mean": 61236.0825,
+      "std": 36704.29882302843
+    },
+    {
+      "department": "BPS Cl#10 Lee Academy",
+      "count": 46,
+      "min": 1078.11,
+      "max": 122442.07,
+      "median": 53454.380000000005,
+      "mean": 60875.10108695652,
+      "std": 35685.92476466929
+    },
+    {
+      "department": "BPS Guild Elementary",
+      "count": 56,
+      "min": 181.01,
+      "max": 135346.85,
+      "median": 53382.93,
+      "mean": 60803.485,
+      "std": 41699.801197257744
+    },
+    {
+      "department": "Emergency Management",
+      "count": 17,
+      "min": 8662.36,
+      "max": 107162.32,
+      "median": 63769.88,
+      "mean": 60711.43588235294,
+      "std": 28845.631395013064
+    },
+    {
+      "department": "BPS Orchard Gardens K-8 Pilot",
+      "count": 162,
+      "min": 0.0,
+      "max": 155358.21,
+      "median": 57835.7,
+      "mean": 60330.590617283946,
+      "std": 41453.32826572599
+    },
+    {
+      "department": "BPS Special Education",
+      "count": 831,
+      "min": 17.65,
+      "max": 170890.34,
+      "median": 49875.83,
+      "mean": 59640.56070998797,
+      "std": 39219.17215181332
+    },
+    {
+      "department": "Traffic Division",
+      "count": 361,
+      "min": 284.71,
+      "max": 203267.5,
+      "median": 55451.7,
+      "mean": 59630.18961218836,
+      "std": 28524.925445271005
+    },
+    {
+      "department": "BPS Everett Elementary",
+      "count": 50,
+      "min": 137.41,
+      "max": 149825.96,
+      "median": 47674.575,
+      "mean": 59534.726200000005,
+      "std": 43594.07226143541
+    },
+    {
+      "department": "BPS Higginson Elementary",
+      "count": 42,
+      "min": 40.22,
+      "max": 137468.92,
+      "median": 47340.895,
+      "mean": 59440.22333333333,
+      "std": 41064.590828689994
+    },
+    {
+      "department": "BPS Channing Elementary",
+      "count": 42,
+      "min": 100.89,
+      "max": 136046.77,
+      "median": 54351.37,
+      "mean": 59315.990952380955,
+      "std": 41581.96135799805
+    },
+    {
+      "department": "Comm. for Persons with Disabil",
+      "count": 7,
+      "min": 21679.25,
+      "max": 104902.07,
+      "median": 51753.63,
+      "mean": 59233.82857142857,
+      "std": 25850.60530697584
+    },
+    {
+      "department": "Women's Advancement",
+      "count": 5,
+      "min": 43260.5,
+      "max": 88543.25,
+      "median": 56706.82,
+      "mean": 59161.224,
+      "std": 17635.96775682951
+    },
+    {
+      "department": "Baldwin ELC",
+      "count": 52,
+      "min": 558.94,
+      "max": 136492.37,
+      "median": 52989.96,
+      "mean": 59071.63692307693,
+      "std": 33997.075099275964
+    },
+    {
+      "department": "Alighieri Montessori School",
+      "count": 21,
+      "min": 97.85,
+      "max": 135198.8,
+      "median": 58861.39,
+      "mean": 58887.678095238094,
+      "std": 42856.55083929102
+    },
+    {
+      "department": "Treasury-Collecting Division",
+      "count": 30,
+      "min": 238.05,
+      "max": 143672.53,
+      "median": 58696.225,
+      "mean": 58707.971000000005,
+      "std": 32448.59893143811
+    },
+    {
+      "department": "BPS Charlestown High",
+      "count": 173,
+      "min": 13.59,
+      "max": 160331.57,
+      "median": 60256.57,
+      "mean": 58574.83734104046,
+      "std": 41879.59162297887
+    },
+    {
+      "department": "BPS Mendell Elementary",
+      "count": 48,
+      "min": 439.98,
+      "max": 136448.88,
+      "median": 55936.465,
+      "mean": 58492.956458333334,
+      "std": 39466.28131002181
+    },
+    {
+      "department": "East Boston EEC",
+      "count": 56,
+      "min": 4.77,
+      "max": 180774.94,
+      "median": 45948.009999999995,
+      "mean": 58171.73625,
+      "std": 37134.24499806148
+    },
+    {
+      "department": "BPS Health Service",
+      "count": 22,
+      "min": 5352.8,
+      "max": 126756.71,
+      "median": 54016.505000000005,
+      "mean": 57361.52409090909,
+      "std": 41868.62773378481
+    },
+    {
+      "department": "Veterans' Services",
+      "count": 15,
+      "min": 156.95,
+      "max": 104902.07,
+      "median": 60925.22,
+      "mean": 57325.507333333335,
+      "std": 28412.413647719313
+    },
+    {
+      "department": "West Zone ELC",
+      "count": 37,
+      "min": 748.46,
+      "max": 137468.92,
+      "median": 43816.45,
+      "mean": 57207.659999999996,
+      "std": 40996.94981822869
+    },
+    {
+      "department": "Higginson/Lewis K-8",
+      "count": 71,
+      "min": 274.15,
+      "max": 136028.96,
+      "median": 48794.02,
+      "mean": 57139.19042253521,
+      "std": 40393.19260379484
+    },
+    {
+      "department": "BPS Holmes Elementary",
+      "count": 81,
+      "min": 43.39,
+      "max": 135346.85,
+      "median": 55703.78,
+      "mean": 57092.32,
+      "std": 39315.401918467964
+    },
+    {
+      "department": "Mattapan Early Elementary",
+      "count": 98,
+      "min": 1235.22,
+      "max": 136046.83,
+      "median": 56572.445,
+      "mean": 57074.676122448975,
+      "std": 35243.35786020436
+    },
+    {
+      "department": "King K-8",
+      "count": 108,
+      "min": 230.77,
+      "max": 132081.99,
+      "median": 43296.850000000006,
+      "mean": 56911.93314814815,
+      "std": 40271.91494706539
+    },
+    {
+      "department": "Ellison/Parks EES",
+      "count": 55,
+      "min": 5.91,
+      "max": 123759.69,
+      "median": 52207.46,
+      "mean": 56818.489272727275,
+      "std": 37696.7006538489
+    },
+    {
+      "department": "Mission Hill K-8",
+      "count": 53,
+      "min": 58.23,
+      "max": 139618.63,
+      "median": 46472.01,
+      "mean": 56388.68396226415,
+      "std": 41180.93558853371
+    },
+    {
+      "department": "BPS Long Term Leave",
+      "count": 7,
+      "min": 314.96,
+      "max": 123406.58,
+      "median": 27305.58,
+      "mean": 56175.387142857144,
+      "std": 57517.22833068793
+    },
+    {
+      "department": "Environment Department",
+      "count": 41,
+      "min": 26.19,
+      "max": 101957.66,
+      "median": 56628.21,
+      "mean": 55849.14292682926,
+      "std": 30694.604791513626
+    },
+    {
+      "department": "Young Achievers K-8",
+      "count": 119,
+      "min": 33.83,
+      "max": 131561.39,
+      "median": 54300.43,
+      "mean": 55835.73151260504,
+      "std": 36896.67480250552
+    },
+    {
+      "department": "P. A. Shaw Elementary",
+      "count": 39,
+      "min": 30.68,
+      "max": 133296.75,
+      "median": 63054.73,
+      "mean": 55072.827692307685,
+      "std": 41449.456467322656
+    },
+    {
+      "department": "BPS Labor Relations",
+      "count": 12,
+      "min": 10830.4,
+      "max": 110756.3,
+      "median": 52483.225,
+      "mean": 54597.90083333334,
+      "std": 32667.95333538929
+    },
+    {
+      "department": "Legal Advisor",
+      "count": 2,
+      "min": 34015.51,
+      "max": 74484.66,
+      "median": 54250.08500000001,
+      "mean": 54250.08500000001,
+      "std": 28616.010393855573
+    },
+    {
+      "department": "Boston Public Library",
+      "count": 494,
+      "min": 88.0,
+      "max": 211151.79,
+      "median": 54660.615000000005,
+      "mean": 54220.965546558706,
+      "std": 29095.39470504943
+    },
+    {
+      "department": "BPS Blackstone Elementary",
+      "count": 132,
+      "min": 119.13,
+      "max": 126381.85,
+      "median": 45975.145000000004,
+      "mean": 54170.591287878786,
+      "std": 36530.37030610303
+    },
+    {
+      "department": "BPS School Safety Service",
+      "count": 88,
+      "min": 122.95,
+      "max": 146279.78,
+      "median": 56512.43,
+      "mean": 54032.401818181825,
+      "std": 27754.944493539537
+    },
+    {
+      "department": "Accountability",
+      "count": 6,
+      "min": 12121.83,
+      "max": 103057.59,
+      "median": 51647.36,
+      "mean": 53881.954999999994,
+      "std": 29849.75549944002
+    },
+    {
+      "department": "BPS Clap Elementary",
+      "count": 33,
+      "min": 2.1,
+      "max": 117312.21,
+      "median": 43441.9,
+      "mean": 53417.93727272727,
+      "std": 36113.9084357087
+    },
+    {
+      "department": "Transportation-Parking Clerk",
+      "count": 58,
+      "min": 1040.98,
+      "max": 130444.57,
+      "median": 52541.805,
+      "mean": 53327.07603448276,
+      "std": 36415.10623860195
+    },
+    {
+      "department": "BPS Tynan Elementary",
+      "count": 78,
+      "min": 162.24,
+      "max": 142048.68,
+      "median": 38799.005000000005,
+      "mean": 52711.395769230774,
+      "std": 41293.8913714427
+    },
+    {
+      "department": "Greenwood, S K-8",
+      "count": 90,
+      "min": 22.39,
+      "max": 129962.95,
+      "median": 44073.185,
+      "mean": 52247.88488888888,
+      "std": 40452.13877946048
+    },
+    {
+      "department": "BPS Dever Elementary",
+      "count": 85,
+      "min": 82.1,
+      "max": 155699.96,
+      "median": 47610.01,
+      "mean": 51031.056941176466,
+      "std": 35844.727899904916
+    },
+    {
+      "department": "Cemetery Division",
+      "count": 35,
+      "min": 2063.32,
+      "max": 146108.3,
+      "median": 46443.29,
+      "mean": 50671.978285714285,
+      "std": 33637.12649689411
+    },
+    {
+      "department": "UP Academy Holland",
+      "count": 127,
+      "min": 30.15,
+      "max": 124439.9,
+      "median": 54051.13,
+      "mean": 50377.28559055118,
+      "std": 28601.703533723685
+    },
+    {
+      "department": "ASD Human Resources",
+      "count": 81,
+      "min": 716.8,
+      "max": 134392.08,
+      "median": 54082.68,
+      "mean": 50128.386543209876,
+      "std": 41739.593184757905
+    },
+    {
+      "department": "BPS Philbrick Elementary",
+      "count": 35,
+      "min": 77.12,
+      "max": 126100.89,
+      "median": 38889.17,
+      "mean": 49492.662,
+      "std": 45503.911209142934
+    },
+    {
+      "department": "Hernandez K-8",
+      "count": 83,
+      "min": 116.0,
+      "max": 139242.45,
+      "median": 39233.78,
+      "mean": 49348.48855421686,
+      "std": 41783.46405806069
+    },
+    {
+      "department": "Haynes EEC",
+      "count": 58,
+      "min": 17.29,
+      "max": 135246.75,
+      "median": 40994.25,
+      "mean": 48998.5425862069,
+      "std": 36570.610614588564
+    },
+    {
+      "department": "Elderly Commission",
+      "count": 85,
+      "min": 39.97,
+      "max": 106823.42,
+      "median": 47421.72,
+      "mean": 47796.16388235294,
+      "std": 22676.355943039685
+    },
+    {
+      "department": "UP \"Unlocking Potential\" Acad",
+      "count": 101,
+      "min": 23.25,
+      "max": 115942.46,
+      "median": 49617.99,
+      "mean": 46689.80297029702,
+      "std": 29512.728612242838
+    },
+    {
+      "department": "Election Division",
+      "count": 51,
+      "min": 251.72,
+      "max": 191206.25,
+      "median": 48186.8,
+      "mean": 46170.95411764706,
+      "std": 43999.97852762718
+    },
+    {
+      "department": "Neighborhood Services",
+      "count": 62,
+      "min": 134.89,
+      "max": 147163.39,
+      "median": 47434.119999999995,
+      "mean": 46075.493709677416,
+      "std": 27880.193568746105
+    },
+    {
+      "department": "Achievement Gap",
+      "count": 64,
+      "min": 40.49,
+      "max": 165844.76,
+      "median": 22356.53,
+      "mean": 45870.904375,
+      "std": 46499.866874676925
+    },
+    {
+      "department": "BPS Business Service",
+      "count": 71,
+      "min": 1500.0,
+      "max": 142418.34,
+      "median": 45198.31,
+      "mean": 45239.644647887326,
+      "std": 31819.5557295836
+    },
+    {
+      "department": "UP Academy Dorchester",
+      "count": 150,
+      "min": 132.79,
+      "max": 120183.88,
+      "median": 46175.945,
+      "mean": 45022.26873333334,
+      "std": 30805.668701787265
+    },
+    {
+      "department": "Career & Technical Ed",
+      "count": 6,
+      "min": 798.73,
+      "max": 141368.2,
+      "median": 26652.785,
+      "mean": 44183.56166666667,
+      "std": 51718.16924455444
+    },
+    {
+      "department": "BPS Facility Management",
+      "count": 668,
+      "min": 3.28,
+      "max": 133519.91,
+      "median": 53183.315,
+      "mean": 43537.755044910184,
+      "std": 29995.156403874407
+    },
+    {
+      "department": "Parks Department",
+      "count": 370,
+      "min": 27.09,
+      "max": 142307.79,
+      "median": 40238.365,
+      "mean": 42962.791,
+      "std": 36760.72203479106
+    },
+    {
+      "department": "BPS Adult Education",
+      "count": 19,
+      "min": 460.0,
+      "max": 132865.09,
+      "median": 8877.82,
+      "mean": 42061.054210526316,
+      "std": 46523.005176447004
+    },
+    {
+      "department": "Dorchester Academy",
+      "count": 5,
+      "min": 583.16,
+      "max": 71335.07,
+      "median": 52447.72,
+      "mean": 41685.804000000004,
+      "std": 32025.989166861495
+    },
+    {
+      "department": "Boston Cntr - Youth & Families",
+      "count": 584,
+      "min": 41.1,
+      "max": 138865.31,
+      "median": 44492.625,
+      "mean": 40243.720102739724,
+      "std": 31212.743350119217
+    },
+    {
+      "department": "Fair Housing & Equity",
+      "count": 18,
+      "min": 400.0,
+      "max": 105531.58,
+      "median": 40563.655,
+      "mean": 39868.62944444444,
+      "std": 34551.214346148525
+    },
+    {
+      "department": "BPS Equity",
+      "count": 17,
+      "min": 363.0,
+      "max": 159340.48,
+      "median": 16804.66,
+      "mean": 39309.6705882353,
+      "std": 45054.66387171192
+    },
+    {
+      "department": "Registry Division",
+      "count": 24,
+      "min": 144.05,
+      "max": 108744.77,
+      "median": 39692.634999999995,
+      "mean": 39224.660416666666,
+      "std": 27083.80032336023
+    },
+    {
+      "department": "Boston City Council",
+      "count": 127,
+      "min": 125.0,
+      "max": 100126.3,
+      "median": 33559.06,
+      "mean": 38833.514015748035,
+      "std": 31355.424056702224
+    },
+    {
+      "department": "Office of Tourism",
+      "count": 22,
+      "min": 289.0,
+      "max": 109973.87,
+      "median": 28965.185,
+      "mean": 38336.340454545454,
+      "std": 37998.40613002459
+    },
+    {
+      "department": "Youth Engagement & Employment",
+      "count": 12,
+      "min": 1980.0,
+      "max": 84092.0,
+      "median": 34637.505,
+      "mean": 37037.71166666666,
+      "std": 27867.02516613133
+    },
+    {
+      "department": "BPS Welcome Services",
+      "count": 61,
+      "min": 731.68,
+      "max": 92523.7,
+      "median": 13030.36,
+      "mean": 33767.74278688525,
+      "std": 32664.92267410155
+    },
+    {
+      "department": "Food & Nutrition Svc",
+      "count": 95,
+      "min": 22.42,
+      "max": 151199.95,
+      "median": 6616.5,
+      "mean": 27969.952631578948,
+      "std": 38492.970152421236
+    },
+    {
+      "department": "BPS MPH\\Crafts Academy",
+      "count": 1,
+      "min": 25567.81,
+      "max": 25567.81,
+      "median": 25567.81,
+      "mean": 25567.81,
+      "std": NaN
+    },
+    {
+      "department": "BPS Boston School Committee",
+      "count": 8,
+      "min": 7499.96,
+      "max": 82519.47,
+      "median": 7751.23,
+      "mean": 23537.585,
+      "std": 29589.499893800166
+    },
+    {
+      "department": "Workers Compensation Service",
+      "count": 110,
+      "min": 1.0,
+      "max": 84058.2,
+      "median": 21208.285,
+      "mean": 23190.82490909091,
+      "std": 20286.1065472671
+    },
+    {
+      "department": "BPS Transportation",
+      "count": 506,
+      "min": 22.38,
+      "max": 134796.89,
+      "median": 20972.77,
+      "mean": 22668.245909090907,
+      "std": 18096.338971690904
+    },
+    {
+      "department": "BPS South Boston High",
+      "count": 7,
+      "min": 6948.36,
+      "max": 45488.97,
+      "median": 17808.47,
+      "mean": 22554.522857142856,
+      "std": 13249.426178430916
+    },
+    {
+      "department": "Student Support Svc",
+      "count": 32,
+      "min": 609.0,
+      "max": 124187.2,
+      "median": 5750.0,
+      "mean": 21963.835625,
+      "std": 30502.937285951917
+    },
+    {
+      "department": "BPS Office Of Budget Mgmt",
+      "count": 57,
+      "min": 335.76,
+      "max": 123282.37,
+      "median": 8304.57,
+      "mean": 18974.22631578947,
+      "std": 30144.934746776908
+    },
+    {
+      "department": "Office of Arts & Culture",
+      "count": 55,
+      "min": 72.0,
+      "max": 102896.14,
+      "median": 882.0,
+      "mean": 18131.523272727274,
+      "std": 30375.98023210981
+    },
+    {
+      "department": "BPS Athletics",
+      "count": 71,
+      "min": 1129.67,
+      "max": 194906.82,
+      "median": 6364.15,
+      "mean": 16167.674507042251,
+      "std": 33146.7157334729
+    },
+    {
+      "department": "BPS Substitute Teachers/Nurs",
+      "count": 1196,
+      "min": 2.83,
+      "max": 98376.47,
+      "median": 6164.07,
+      "mean": 12438.436505016723,
+      "std": 14947.838484677899
+    },
+    {
+      "department": "BPS MPH\\Commerce Academy",
+      "count": 1,
+      "min": 9457.56,
+      "max": 9457.56,
+      "median": 9457.56,
+      "mean": 9457.56,
+      "std": NaN
+    },
+    {
+      "department": "BPS Mattahunt Elementary",
+      "count": 8,
+      "min": 116.92,
+      "max": 31730.76,
+      "median": 403.15500000000003,
+      "mean": 4530.835,
+      "std": 11010.644797262588
+    },
+    {
+      "department": "HBI Retirees,et al",
+      "count": 1,
+      "min": 3020.72,
+      "max": 3020.72,
+      "median": 3020.72,
+      "mean": 3020.72,
+      "std": NaN
+    }
+  ],
+  "top5_by_mean": [
+    {
+      "department": "Boston Police Department",
+      "count": 3173,
+      "min": 105.9,
+      "max": 684410.9,
+      "median": 132711.47,
+      "mean": 131321.46231957138,
+      "std": 77925.45571370905
+    },
+    {
+      "department": "Boston Fire Department",
+      "count": 1688,
+      "min": 701.92,
+      "max": 260160.29,
+      "median": 127599.285,
+      "mean": 130292.7828021327,
+      "std": 34845.030814217746
+    },
+    {
+      "department": "School Support & Tranformation",
+      "count": 15,
+      "min": 67189.88,
+      "max": 168431.63,
+      "median": 111854.8,
+      "mean": 113345.90133333333,
+      "std": 36079.64244232629
+    },
+    {
+      "department": "Chief Operating Officer",
+      "count": 20,
+      "min": 7200.0,
+      "max": 169831.15,
+      "median": 121822.8,
+      "mean": 109660.818,
+      "std": 47555.73801427293
+    },
+    {
+      "department": "Strategy Department",
+      "count": 4,
+      "min": 60015.44,
+      "max": 182060.75,
+      "median": 98211.935,
+      "mean": 109625.015,
+      "std": 53462.20780898752
+    }
+  ]
+}
