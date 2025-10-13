@@ -60,13 +60,11 @@ def main():
  
     try:
         if args.read_local:
-            # Chemin CSV déjà nettoyé -> saute extract/transform
             csv_path = Path(args.read_local)
             if not csv_path.exists():
                 print(f"[ERREUR] Fichier local introuvable: {csv_path}", file=sys.stderr)
                 sys.exit(2)
             df_clean = pd.read_csv(csv_path)
-            # Validation minimale
             if not {"department", "total_earnings"}.issubset(df_clean.columns):
                 print(
                     "[ERREUR] Le CSV local doit contenir les colonnes 'department' et 'total_earnings'.",
@@ -91,8 +89,6 @@ def main():
  
         print("[INFO] Analyse…")
         stats = analyse(df_clean)
- 
-        # Impression console (résumé)
         overall = stats["overall"]
         print("\n=== Résumé global ===")
         print(
@@ -103,7 +99,6 @@ def main():
  
         topN = stats["by_department"][: args.print_top]
         if topN:
-            # Les données sont déjà triées par mean décroissant dans etl.analyse()
             print(f"\n=== Top {args.print_top} départements par moyenne ===")
             for r in stats["top5_by_mean"][: args.print_top]:
                 dept = r.get("department", "UNKNOWN")
@@ -112,7 +107,6 @@ def main():
                     f"min={r['min']:.2f}, max={r['max']:.2f}, n={r['count']}"
                 )
  
-        # Sauvegarde JSON optionnelle
         if args.stats_json:
             out_json = Path(args.stats_json)
             out_json.write_text(json.dumps(stats, ensure_ascii=False, indent=2), encoding="utf-8")
